@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 
-#Preparation du dataset
+#Preparation du dataset de nom de fichier minecraft
 # Chemin vers le dossier contenant les fichiers JSON
 json_folder = 'recipes/'
 

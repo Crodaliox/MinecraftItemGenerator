@@ -1,0 +1,102 @@
+[
+    {
+        "items0": "pioche",
+        "items1": "diamant",
+        "resultItem": "Pioche de Diamant"
+    },
+    {
+        "items0": "pioche",
+        "items1": "rubis",
+        "resultItem": "Pioche en Rubis"
+    },
+    {
+        "items0": "caca",
+        "items1": "toilette",
+        "resultItem": "Caca de Toilette"
+    },
+    {
+        "items0": "poulet",
+        "items1": "toilette",
+        "resultItem": "Poulet-WC"
+    },
+    {
+        "items0": "poulet",
+        "items1": "pouce d'arbre",
+        "resultItem": "Poulet d'Arbre"
+    },
+    {
+        "items0": "poulet",
+        "items1": "planche",
+        "resultItem": "Planche de Poulet"
+    },
+    {
+        "items0": "poulet",
+        "items1": "oeuf d'ender dragon",
+        "resultItem": "Oeuf de Poulet Endérique"
+    },
+    {
+        "items0": "poulet",
+        "items1": "oeuf d'ender dragon",
+        "resultItem": "Œuf de Poulet d'Ender"
+    },
+    {
+        "items0": "navet",
+        "items1": "crystal de l'ender",
+        "resultItem": "Cristal de Navet de l'Ender"
+    },
+    {
+        "items0": "formule 1",
+        "items1": "oeuf de creeper",
+        "resultItem": "F1 Oeuf Creeper"
+    },
+    {
+        "items0": "formule 1",
+        "items1": "gunpowder",
+        "resultItem": "Formula Gun"
+    },
+    {
+        "items0": "formule 1",
+        "items1": "gunpowder",
+        "resultItem": "Formule 1 Poudre Explosive"
+    },
+    {
+        "items0": "formule 1",
+        "items1": "limace",
+        "resultItem": "Voiture Limace"
+    },
+    {
+        "items0": "formule 1",
+        "items1": "ender dragon",
+        "resultItem": "Ender F1 Dragon"
+    },
+    {
+        "items0": "formule 1",
+        "items1": "",
+        "resultItem": "Bolide de Course"
+    },
+    {
+        "items0": "formule 1",
+        "items1": "limace",
+        "resultItem": "\"Limace de Course\""
+    },
+    {
+        "items0": "cloue",
+        "items1": "planche",
+        "resultItem": "Clousse Planche"
+    },
+    {
+        "items0": "clou",
+        "items1": "planche",
+        "resultItem": "Planche Cloutée"
+    },
+    {
+        "items0": "clou",
+        "items1": "planche",
+        "resultItem": "Planche cloutée"
+    },
+    {
+        "items0": "bois",
+        "items1": "perroquet",
+        "resultItem": "Perroquet en Bois"
+    }
+]
